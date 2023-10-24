@@ -1,0 +1,1 @@
+{"config": "./CFINet/faster_rcnn_r50_fpn_cfinet_1x.py", "metric": {"bbox_AP": 0.307, "bbox_AP_50": 0.612, "bbox_AP_75": 0.265, "bbox_AP_eS": 0.143, "bbox_AP_rS": 0.272, "bbox_AP_gS": 0.368, "bbox_AP_Normal": 0.463, "bbox_mAP_copypaste": "0.307 0.612 0.265 0.143 0.272 0.368 0.463 "}}
